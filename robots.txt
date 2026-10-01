@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://h20367825-spec.github.io/data-recovery-staging/sitemap.xml
