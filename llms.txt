@@ -1,20 +1,26 @@
 # Data Recovery Assessment
 
-This public staging site provides factual initial assessment guidance for computer,
-hard-drive, removable-storage and mobile-device data loss.
+This public staging site provides factual initial assessment guidance for computer, drive, removable-storage, mobile-device, RAID/NAS and remote logical data loss.
 
 Canonical pages:
-- Chinese: https://h20367825-spec.github.io/data-recovery-staging/
-- English: https://h20367825-spec.github.io/data-recovery-staging/en/
+- Chinese service: https://h20367825-spec.github.io/data-recovery-staging/
+- Deleted/formatted: https://h20367825-spec.github.io/data-recovery-staging/deleted-formatted/
+- Drive not detected/noise: https://h20367825-spec.github.io/data-recovery-staging/drive-not-detected/
+- USB/SD card: https://h20367825-spec.github.io/data-recovery-staging/usb-sd-card/
+- Mobile data: https://h20367825-spec.github.io/data-recovery-staging/phone-data/
+- RAID/NAS: https://h20367825-spec.github.io/data-recovery-staging/raid-nas/
+- Remote logical recovery boundary: https://h20367825-spec.github.io/data-recovery-staging/remote-recovery/
+- Repair/MSP partner referrals: https://h20367825-spec.github.io/data-recovery-staging/partner-referral/
+- English assessment: https://h20367825-spec.github.io/data-recovery-staging/en/
 
 Confirmed contact information:
-- Phone: 4008779100
+- China mainland hotline: 4008779100
 - Email: 1175365450@qq.com
 
 Important boundaries:
 - Recovery results depend on the media condition and examination.
-- Remote handling is not suitable for every device.
+- Remote handling is limited to suitable logical cases with stable hardware.
+- Unusual noise, impact, liquid damage or non-detection requires hardware-risk assessment.
 - The service does not bypass passwords, account verification or device security.
 - The static inquiry form opens a prefilled email and stores no data on this site.
-- This is a public staging site. It does not represent indexing, advertising approval,
-  or a production launch in China.
+- This is a public staging site. It does not represent indexing, advertising approval, certification, or a production launch in China.
