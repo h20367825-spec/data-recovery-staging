@@ -16,11 +16,14 @@ Canonical pages:
 Confirmed contact information:
 - China mainland hotline: 4008779100
 - Email: 1175365450@qq.com
+- The Chinese and English forms prepare a structured email with an inquiry reference and source fields.
+- If a mail application does not open, the visitor can copy the complete inquiry and send it from any email service.
 
 Important boundaries:
 - Recovery results depend on the media condition and examination.
 - Remote handling is limited to suitable logical cases with stable hardware.
 - Unusual noise, impact, liquid damage or non-detection requires hardware-risk assessment.
 - The service does not bypass passwords, account verification or device security.
-- The static inquiry form opens a prefilled email and stores no data on this site.
-- This is a public staging site. It does not represent indexing, advertising approval, certification, or a production launch in China.
+- The static inquiry form stores no data on this site and does not claim delivery before the visitor sends the email.
+- A generated inquiry is not evidence of a received inquiry. Only a received email, connected call or separately verified conversation is evidence of contact.
+- Public accessibility does not represent search-engine indexing, advertising approval, certification, customer activity or a production launch in China.
